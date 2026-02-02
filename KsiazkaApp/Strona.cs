@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KsiazkaApp
 {
-    internal class Strona
+    public class Strona
     {
         public string trescStrony;
         public uint numerStrony;

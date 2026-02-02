@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KsiazkaApp
 {
-    internal class Ksiazka
+    public class Ksiazka
     {
         public List<Strona> strony = new List<Strona>();
         public Ksiazka(string tytul) 
